@@ -61,3 +61,11 @@ Seasonal-Agriculture-Performance-Analysis/
 ├── seasonal_agriculture_performance_dataset.csv
 ├── README.md
 └── requirements.txt
+
+---
+
+## 👨‍💻 Author
+
+**Author:** Mohammad Ahmed Muzakkir
+
+**College:** Mahaveer Institute of Science and Technology (MIST)
